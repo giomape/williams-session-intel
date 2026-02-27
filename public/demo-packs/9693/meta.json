@@ -1,0 +1,42 @@
+{
+  "session_key": 9693,
+  "generated_at": "2026-02-25T08:57:25.340Z",
+  "openf1_base_url": "https://api.openf1.org/v1",
+  "session": {
+    "session_key": 9693,
+    "session_type": "Race",
+    "session_name": "Race",
+    "date_start": "2025-03-16T04:00:00+00:00",
+    "date_end": "2025-03-16T06:00:00+00:00",
+    "meeting_key": 1254,
+    "circuit_key": 10,
+    "circuit_short_name": "Melbourne",
+    "country_key": 5,
+    "country_code": "AUS",
+    "country_name": "Australia",
+    "location": "Melbourne",
+    "gmt_offset": "11:00:00",
+    "year": 2025
+  },
+  "replay_counts": {
+    "position_all": 335,
+    "position_A": 15,
+    "position_B": 9,
+    "location_all": 791180,
+    "location_A": 39559,
+    "location_B": 39559,
+    "laps_A": 57,
+    "laps_B": 1,
+    "pit_A": 5,
+    "pit_B": 0,
+    "team_radio": 1,
+    "race_control": 115,
+    "intervals": 18965,
+    "weather": 178
+  },
+  "knowledge_counts": {
+    "events": 1883,
+    "radios": 1,
+    "glossary": 30
+  }
+}

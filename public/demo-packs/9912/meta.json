@@ -1,0 +1,42 @@
+{
+  "session_key": 9912,
+  "generated_at": "2026-02-25T08:59:37.295Z",
+  "openf1_base_url": "https://api.openf1.org/v1",
+  "session": {
+    "session_key": 9912,
+    "session_type": "Race",
+    "session_name": "Race",
+    "date_start": "2025-09-07T13:00:00+00:00",
+    "date_end": "2025-09-07T15:00:00+00:00",
+    "meeting_key": 1268,
+    "circuit_key": 39,
+    "circuit_short_name": "Monza",
+    "country_key": 13,
+    "country_code": "ITA",
+    "country_name": "Italy",
+    "location": "Monza",
+    "gmt_offset": "02:00:00",
+    "year": 2025
+  },
+  "replay_counts": {
+    "position_all": 421,
+    "position_A": 26,
+    "position_B": 28,
+    "location_all": 614000,
+    "location_A": 30700,
+    "location_B": 30700,
+    "laps_A": 53,
+    "laps_B": 53,
+    "pit_A": 1,
+    "pit_B": 1,
+    "team_radio": 3,
+    "race_control": 73,
+    "intervals": 20226,
+    "weather": 144
+  },
+  "knowledge_counts": {
+    "events": 1179,
+    "radios": 3,
+    "glossary": 30
+  }
+}

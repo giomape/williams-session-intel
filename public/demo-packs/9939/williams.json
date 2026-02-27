@@ -1,0 +1,12 @@
+{
+  "session_key": 9939,
+  "team_name": "Williams",
+  "car_A": {
+    "driver_number": 23,
+    "full_name": "Alexander ALBON"
+  },
+  "car_B": {
+    "driver_number": 55,
+    "full_name": "Carlos SAINZ"
+  }
+}
